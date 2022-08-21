@@ -1,5 +1,7 @@
 # Cyclist Case-Study : Project
 
+![alt text](https://c.tenor.com/Qc90hq71WI4AAAAd/cycling-bicycle.gif)
+
 ## Introduction: 
 The bike share analysis case study presented here and brings the real world scenario of the nature of bike riders, i.e. Annual member riders and non-member Casual riders in Chicago.
 
